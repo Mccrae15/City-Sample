@@ -1,0 +1,3 @@
+# Do not edit or replace. Modify the root flow in the repo instead
+include:
+  remote: 'https://wvs.io/wvs-flows/root-flows/raw/main/root_flow_default.yml'
