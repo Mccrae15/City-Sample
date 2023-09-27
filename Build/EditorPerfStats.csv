@@ -1,0 +1,3 @@
+Name,Statistic,TelemetryContext,TelemetryDataPoint,TelemetryUnit,BaselineWarningThreshold,BaselineErrorThreshold,
+Generated Scope for LoadAsset - /Game/Map/Big_City_LVL,TotalDurationSeconds,Events,Load Big_City_LVL,Seconds,10%,,
+Generated Scope for PIE - /Game/Map/Big_City_LVL,TotalDurationSeconds,Events,PIE Big_City_LVL,Seconds,10%,,
