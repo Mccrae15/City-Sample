@@ -33,7 +33,7 @@ We've included an automated build flow in this project so you could try out.
 When you **Fork** a project, it allows you to make a copy of the project and save it to your personal namespace or group. With your own copy, you can check in any changes back to the repository.
 To get your own copy of the project in your own personal repo or group, fork the project by clicking on the **Fork** button near the middle of the main project page.
 
-![fork](img/fork-valley.png)
+![fork](img/city-fork.png)
 
 After you click the **Fork** button, you will be on the **Fork project** page. This page requires a couple of selections and inputs. Below, we describe each entry. 
 
