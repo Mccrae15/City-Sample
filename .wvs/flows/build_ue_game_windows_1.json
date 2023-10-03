@@ -1,0 +1,55 @@
+{
+ "Version": 6,
+ "Enabled": true,
+ "Location": "wvs",
+ "Definition": "wvs-flows/build-ue5|build_ue5_windows|v1.3.x",
+ "ManualTrigger": "",
+ "ManualOnly": false,
+ "Branches": [],
+ "Changes": [],
+ "Variables": null,
+ "Name": "",
+ "Inputs": [
+  {
+   "Name": "SHARED_DDC_USER",
+   "Value": "$WVSUSR_UE_DDC_KEY",
+   "Source": ""
+  },
+  {
+   "Name": "SHARED_DDC_PASSWORD",
+   "Value": "$WVSUSR_UE_DDC_SECRET",
+   "Source": ""
+  },
+  {
+   "Name": "OUTPUT_NAME",
+   "Value": "$CI_JOB_NAME",
+   "Source": ""
+  },
+  {
+   "Name": "PROJECT_DIR",
+   "Value": "$PRJ_AUTO_PROJDIR",
+   "Source": ""
+  },
+  {
+   "Name": "PROJECT_FILE",
+   "Value": "$PRJ_AUTO_PROJFILE",
+   "Source": ""
+  },
+  {
+   "Name": "pak",
+   "Value": "true",
+   "Source": ""
+  },
+  {
+   "Name": "ENFORCE_LOCKS",
+   "Value": "false",
+   "Source": ""
+  }
+ ],
+ "DisplayName": "build_ue_game_windows_1",
+ "Flavor": "",
+ "EngineVersion": "5.3",
+ "EngineTargetPlatform": "windows",
+ "RequireExecMemoryGB": 0,
+ "RequireExecCores": 0
+}
