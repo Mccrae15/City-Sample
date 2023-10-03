@@ -1,8 +1,8 @@
 # City Sample on Unreal Engine 5
 
-**City Sample** is a sample project on **WVS**, created by Epic Games that shows a large world crafted with a library of Megascans assets. The project is available for Unreal Engine 5.3, and is provided here as an example for the **WVS Community** to learn from.
+**City Sample** is a sample project on **WVS**, created by Epic Games. The project reveals how the city scene from The Matrix Awakens and consists of a city with crowds, buildings, and vehicles. The project is available for Unreal Engine 5.3, it comes equipped with an automated build flow, and is provided here as an example for the **WVS Community** to learn from.
 
-> Additional information on **City Sample** can be found on [Epic Games](https://docs.unrealengine.com/5.2/en-US/valley-of-the-ancient-sample-game-for-unreal-engine/)
+> Additional information on **City Sample** can be found on [Epic Games](https://www.unrealengine.com/marketplace/en-US/product/city-sample)
 
 WARNING:
 **Please be aware of the file size of this project. Not Recommended for Free Tier users.**
