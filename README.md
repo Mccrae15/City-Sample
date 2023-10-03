@@ -7,7 +7,7 @@
 WARNING:
 **Please be aware of the file size of this project. Not Recommended for Free Tier users.**
 <br>
-![filesize](img/valley-file-size.png)
+![filesize](img/city-file-size.png)
 
 ### Benefits of Downloading the project on WVS
 
@@ -37,13 +37,13 @@ To get your own copy of the project in your own personal repo or group, fork the
 
 After you click the **Fork** button, you will be on the **Fork project** page. This page requires a couple of selections and inputs. Below, we describe each entry. 
 
-![fork1](img/valley-fork.png)
+![fork2](img/city-fork2.png)
 
 
 - **Project name**  
 The project name option auto-populates to the original name of the project, but you have the option to name it whatever you would like.
 
- > example: My UE5 City Sample
+ > example: My Cool City Sample
 
 - **Project URL**   
 In the project URL section, you can select where you want your project to live. There are two options, your project can live in your ***personal*** **namespace**, and if you have multiple projects or are working with others, you can create a ***group*** **namespace**. In WVS, a namespace is a unique name for a user, a group, or a subgroup under which a project can be created.
